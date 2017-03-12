@@ -14,3 +14,7 @@ p {
 p#pierwszy, a {
 	font-weight: bold;
 }
+
+div#potomny > p {
+	background-color: aqua;
+}
