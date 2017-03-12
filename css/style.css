@@ -26,3 +26,7 @@ div#potomny > p {
 #pierwszy ~ a {
 	background-color: lightcoral;
 }
+
+div#potomny > p:not(.last) {
+	background-color: lightseagreen;
+}
