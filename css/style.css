@@ -22,3 +22,7 @@ div#potomny > p {
 #pierwszy + a {
 	background-color: darkgoldenrod;
 }
+
+#pierwszy ~ a {
+	background-color: lightcoral;
+}
