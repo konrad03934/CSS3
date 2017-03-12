@@ -30,3 +30,7 @@ div#potomny > p {
 div#potomny > p:not(.last) {
 	background-color: lightseagreen;
 }
+
+div>p:nth-child(2) {
+	color: darkmagenta;
+}
