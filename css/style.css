@@ -3,7 +3,7 @@ p {
 	padding: 10px 0;
 }
 
-#pan-tadeusz {
+#pierwszy {
 	background-color: chocolate;
 }
 
@@ -17,4 +17,8 @@ p#pierwszy, a {
 
 div#potomny > p {
 	background-color: aqua;
+}
+
+#pierwszy + a {
+	background-color: darkgoldenrod;
 }
